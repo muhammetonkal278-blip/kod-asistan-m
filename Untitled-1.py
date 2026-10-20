@@ -1,0 +1,1 @@
+print("merhaba 9A sınıfı")
